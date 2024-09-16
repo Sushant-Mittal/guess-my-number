@@ -21,4 +21,4 @@ A simple guessing game built using HTML CSS and JS. Players have to guess a rand
    ![](https://github.com/Sushant-Mittal/guess-my-number/blob/main/screenshot-127.0.0.1_5500-2024.09.16-21_45_35.png)
 
 
-Link to play [here]()
+Link to play [here](https://sushant-mittal.github.io/guess-my-number/)
